@@ -7,3 +7,5 @@ deploy:
   api_key: 
     secure: 60c0f246-a12b-4052-911a-03ee9a815828
   app: hanna-haukur
+  on:
+   all_branches: true
